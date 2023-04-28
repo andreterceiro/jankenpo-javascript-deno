@@ -9,5 +9,9 @@ As we have some dependencies, then you need to run the folllowing command to ins
 ## Run
 deno run index.js
 
+## Video demonstration
+
+[Link](https://youtu.be/ZF5SNxylujY)
+
 ## License
 MIT
